@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.2.0",
-  "downloadUrl": "https://api.github.com/repos/Saadwato/school-app-updates/releases/assets/522279891",
-  "notes": "Free trial system (14 days, tamper-protected across database + Windows Registry, survives app-data deletion), automatic demo/sample data for new installs with a Delete Demo Data option in Settings, fixed license status display, fixed dashboard fee card overflow, fixed a crash-causing duplicate FloatingActionButton hero-tag conflict, and a one-time default admin credentials hint on first login."
+  "latestVersion": "1.2.1",
+  "downloadUrl": "https://api.github.com/repos/Saadwato/school-app-updates/releases/assets/522699073",
+  "notes": "Fixes a bug in v1.2.0 where the app's internal version number was not updated alongside the release version, causing every v1.2.0 install to permanently think a newer version was available (itself) and repeatedly try to overwrite its own running program files, corrupting the install so the app failed to reopen. This release breaks that loop."
 }
