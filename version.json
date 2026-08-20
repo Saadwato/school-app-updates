@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.1.0",
-  "downloadUrl": "https://api.github.com/repos/Saadwato/school-app-updates/releases/assets/517914112",
-  "notes": "Fees module rebuild (Family Fees, cash filters, delete+audit, print formats), app-wide fixes (delete audit logging, missing print/export, Discipline edit, Library delete, Merit List/Attendance reports, PTM Student Reports, Blank Form printing), and a bug fix: bulk student import no longer sets a fake DOB/Gender on every imported student."
+  "latestVersion": "1.2.0",
+  "downloadUrl": "https://api.github.com/repos/Saadwato/school-app-updates/releases/assets/522279891",
+  "notes": "Free trial system (14 days, tamper-protected across database + Windows Registry, survives app-data deletion), automatic demo/sample data for new installs with a Delete Demo Data option in Settings, fixed license status display, fixed dashboard fee card overflow, fixed a crash-causing duplicate FloatingActionButton hero-tag conflict, and a one-time default admin credentials hint on first login."
 }
