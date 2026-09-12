@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.2.1",
-  "downloadUrl": "https://api.github.com/repos/Saadwato/school-app-updates/releases/assets/522699073",
-  "notes": "Fixes a bug in v1.2.0 where the app's internal version number was not updated alongside the release version, causing every v1.2.0 install to permanently think a newer version was available (itself) and repeatedly try to overwrite its own running program files, corrupting the install so the app failed to reopen. This release breaks that loop."
+  "latestVersion": "1.3.0",
+  "downloadUrl": "https://api.github.com/repos/Saadwato/school-app-updates/releases/assets/559624088",
+  "notes": "Date Sheet screen: class filter and Preview/Download fixed. Islamic Corner removed from all menus. New Document Language setting for PDFs, separate from the app's display language. Forgot Password + Forgot Security Answer recovery added: admin can reset a user's password directly from Manage Users, and a Machine-ID-bound Emergency Reset Token flow was added to the login screen for when both are forgotten. Machine ID (hardware fingerprint) made more robust, with a compatibility fallback so licenses issued before this update keep working without needing to be reissued."
 }
