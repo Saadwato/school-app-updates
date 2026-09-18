@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.3.1",
-  "downloadUrl": "https://api.github.com/repos/Saadwato/school-app-updates/releases/assets/559635635",
-  "notes": "Security fix: removed a hardcoded GitHub personal access token from the app's update-checker code -- it was unnecessary, since school-app-updates is a public repo and needs no token to check for or download updates. Everything else is unchanged from v1.3.0 (Date Sheet fixes, Islamic Corner removal, Document Language, Emergency Reset, hardened Machine ID)."
+  "latestVersion": "1.3.2",
+  "downloadUrl": "https://api.github.com/repos/Saadwato/school-app-updates/releases/assets/573083858",
+  "notes": "Fixes: Excel .xlsx import showing literal \"null\" text for blank cells (Students, Staff, Fees/Attendance, Question Bank imports); friendly error message instead of raw crash when an .xlsx file's internal structure can't be parsed; PDF 2-column paper layout width fix; Paper Generator no longer hides Urdu-only subjects; General Science, Ethics, Play Group class, and Science/Arts sections now included by default on fresh installs; expanded Math, Ethics, and Islamiat question bank content."
 }
