@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.3.3",
-  "downloadUrl": "https://api.github.com/repos/Saadwato/school-app-updates/releases/assets/579387319",
-  "notes": "Fixes: left/graduated students no longer appear in attendance marking, staff payroll disbursement, staff leave applications, exam marks/result-card/admit-card lists, library book issue, school items sale, transport, pickup log, or fee voucher generation. Dashboard stats now refresh correctly. Delete confirmations for students, staff, and master data now warn if attendance/fee history would be orphaned. New: per-student fee discount, single-student attendance history with print, Student List status filter, configurable vouchers-per-page and voucher size for printing, and a combined family fee receipt (detailed or total-only). Fixed emoji/symbol characters not printing on early-learning worksheets."
+  "latestVersion": "1.3.4",
+  "downloadUrl": "https://api.github.com/repos/Saadwato/school-app-updates/releases/assets/587049679",
+  "notes": "New: Collect Payment for whole family in one go (per-child discount/amount, multi-month arrears, pending School Items shown/collectible, live discount-sync), combined family payment receipt showing Received/Pending per child and for items. Fixed: family/daily-collection/fee receipts no longer lose signatures or totals for large families or heavy accounts. New-install sidebar now shows only popular modules by default; Settings and Sidebar Customization can no longer be accidentally hidden. Demo/sample data now shows a Dashboard banner with a one-tap Clear button. Fixed emoji/symbol glyphs not printing on early-learning worksheets."
 }
