@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.3.4",
-  "downloadUrl": "https://api.github.com/repos/Saadwato/school-app-updates/releases/assets/587049679",
-  "notes": "New: Collect Payment for whole family in one go (per-child discount/amount, multi-month arrears, pending School Items shown/collectible, live discount-sync), combined family payment receipt showing Received/Pending per child and for items. Fixed: family/daily-collection/fee receipts no longer lose signatures or totals for large families or heavy accounts. New-install sidebar now shows only popular modules by default; Settings and Sidebar Customization can no longer be accidentally hidden. Demo/sample data now shows a Dashboard banner with a one-tap Clear button. Fixed emoji/symbol glyphs not printing on early-learning worksheets."
+  "latestVersion": "1.3.5",
+  "downloadUrl": "https://api.github.com/repos/Saadwato/school-app-updates/releases/assets/603271796",
+  "notes": "New: Holiday calendar now links directly to Attendance. Set a standing weekly closure (e.g. every Sunday, or every Friday for schools that close Friday) that applies automatically forever for both student and staff attendance -- that date can no longer be marked at all. Set a date-range holiday (e.g. a 10-day winter break) by picking a start and end date instead of entering one day at a time. For sudden/emergency closures (disaster, national event), add a reason and choose: leave blank, or instantly bulk-mark everyone Present for that date."
 }
