@@ -1,5 +1,5 @@
-{
-  "latestVersion": "1.3.5",
-  "downloadUrl": "https://api.github.com/repos/Saadwato/school-app-updates/releases/assets/603271796",
-  "notes": "New: Holiday calendar now links directly to Attendance. Set a standing weekly closure (e.g. every Sunday, or every Friday for schools that close Friday) that applies automatically forever for both student and staff attendance -- that date can no longer be marked at all. Set a date-range holiday (e.g. a 10-day winter break) by picking a start and end date instead of entering one day at a time. For sudden/emergency closures (disaster, national event), add a reason and choose: leave blank, or instantly bulk-mark everyone Present for that date."
+﻿{
+    "latestVersion":  "1.3.7",
+    "downloadUrl":  "https://api.github.com/repos/Saadwato/school-app-updates/releases/assets/608304606",
+    "notes":  "New: bulk actions for students (mark Left/Graduated, change class, print selected) and staff (select several, change status, export). Print preview, PDF and CSV on many more screens (attendance, marks entry, fee structure, ledger, alumni, counseling, forms, student insight and more). Admission date filter redesigned with quick choices (today, yesterday, this week, this month, custom range). Admission fees collected now show in Dashboard collection and pending. License machine-ID, fresh-install sidebar and default Sunday holiday fixes, and many money, attendance and security fixes."
 }
