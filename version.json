@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.3.9",
-  "downloadUrl": "https://api.github.com/repos/Saadwato/school-app-updates/releases/assets/608637309",
-  "notes": "New: Set B papers keep a fixed order and the MCQ Auto Checker can show Set A or Set B. Papers with Attempt any X of Y now give marks that match the printed paper. The Dashboard pending count includes uncollected admission fees. User Guide has a Quick Start and 79 questions and answers with working search. Bulk actions for students and staff, print/PDF/CSV on many screens, admission date filter, and the network sync no longer broadcasts its access token."
+  "latestVersion": "1.3.10",
+  "downloadUrl": "https://api.github.com/repos/Saadwato/school-app-updates/releases/assets/608746247",
+  "notes": "New: long lists such as a school-wide class list of 600+ students now print and save as PDF instead of failing. Urdu student names print correctly in the class list. Very long notes no longer break the table reports and the ledger PDF. The User Guide PDF works with an Urdu school name and the User Guide has its own button in Settings. Includes everything from 1.3.9: Set B papers keep a fixed order, MCQ checker Set A/B, correct marks for Attempt any X of Y, bulk actions, print/PDF/CSV buttons, admission date filter and a safer network sync."
 }
