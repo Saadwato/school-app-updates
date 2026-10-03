@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.3.8",
-  "downloadUrl": "https://api.github.com/repos/Saadwato/school-app-updates/releases/assets/608581004",
-  "notes": "New: bulk actions for students (mark Left/Graduated, change class, print selected) and staff (select several, change status, export). Print preview, PDF and CSV on many more screens. Admission date filter with quick choices. Admission fees now count in Dashboard collection and pending. User Guide now has a Quick Start and 77 questions and answers with working search. The network sync no longer broadcasts its access token. The in-app update now handles the installer."
+  "latestVersion": "1.3.9",
+  "downloadUrl": "https://api.github.com/repos/Saadwato/school-app-updates/releases/assets/608637309",
+  "notes": "New: Set B papers keep a fixed order and the MCQ Auto Checker can show Set A or Set B. Papers with Attempt any X of Y now give marks that match the printed paper. The Dashboard pending count includes uncollected admission fees. User Guide has a Quick Start and 79 questions and answers with working search. Bulk actions for students and staff, print/PDF/CSV on many screens, admission date filter, and the network sync no longer broadcasts its access token."
 }
