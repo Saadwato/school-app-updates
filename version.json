@@ -1,4 +1,4 @@
-﻿{
+{
     "latestVersion":  "1.3.7",
     "downloadUrl":  "https://api.github.com/repos/Saadwato/school-app-updates/releases/assets/608304606",
     "notes":  "New: bulk actions for students (mark Left/Graduated, change class, print selected) and staff (select several, change status, export). Print preview, PDF and CSV on many more screens (attendance, marks entry, fee structure, ledger, alumni, counseling, forms, student insight and more). Admission date filter redesigned with quick choices (today, yesterday, this week, this month, custom range). Admission fees collected now show in Dashboard collection and pending. License machine-ID, fresh-install sidebar and default Sunday holiday fixes, and many money, attendance and security fixes."
